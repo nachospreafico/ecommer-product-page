@@ -1,4 +1,3 @@
-import { useState } from "react";
 import Close from "./../assets/images/icon-close.svg";
 import Next from "./../assets/images/icon-next.svg";
 import Previous from "./../assets/images/icon-previous.svg";
